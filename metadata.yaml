@@ -1,0 +1,27 @@
+_repo: The-storm-of-London-a-social-rhapsody_63939
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blaze de Bury, Fernande
+    alias: Dickberry, F.
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '52678'
+    url: http://www.gutenberg.org/2009/agents/52678
+description: ''
+gutenberg_issued: '2020-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63939'
+  lccn: '85892307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- GITenberg
+title: 'The storm of London: a social rhapsody'
+url: http://www.gutenberg.org/ebooks/63939
